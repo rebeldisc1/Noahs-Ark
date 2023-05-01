@@ -7,5 +7,5 @@ Hopefully, if I obtain a large enough team, I will continue to update it.
 -------------------------------------------------------------------------------
 Disclaimer:
 I (Noah) am the only one who offers support for this jailbreak at the moment.
-I am just using other tools from other devs. The update to the exploit are my doing.
+I am just using other tools from other devs. The updates to the exploit are my doing.
 For any other concerns or questions, please message me on twitter. (@Rebeldisc)
