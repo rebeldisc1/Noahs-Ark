@@ -10,7 +10,7 @@ I am just using other tools from other devs. The updates to the exploit are my d
 FOR NOW, IPADS ARE NOT SUPPORTED.
 
 Massive thanks to: Linus Henze for making this wonderful exploit & making it usable for a jailbreak.
-Noah's Ark will be released before May 29th. :)
+Noah's Ark will be released before June 7th. :)
 
 Another massive thanks to: Lars Froder for other tools as well. He is an amazing dev.
 Be sure to check out his twitter or follow him sometime.
