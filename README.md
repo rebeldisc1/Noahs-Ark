@@ -9,7 +9,7 @@ I (Noah) am the only one who offers support for this jailbreak at the moment.
 I am just using other tools from other devs. The updates to the exploit are my doing.
 FOR NOW, IPADS ARE NOT SUPPORTED.
 
-Massive thanks to Linus Henze for making this wonderful exploit & making it usable for a jailbreak.
+Massive thanks to: Linus Henze for making this wonderful exploit & making it usable for a jailbreak.
 Noah's Ark will be released before May 29th. :)
 
 Another massive thanks to: Lars Froder for other tools as well. He is an amazing dev.
